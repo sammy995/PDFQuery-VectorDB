@@ -130,6 +130,9 @@ Replace `YOUR_ASTRA_DB_TOKEN`, `YOUR_ASTRA_DB_ID`, and `YOUR_OPENAI_API_KEY` wit
 ### Conclusion
 This project provides a robust solution for querying and extracting information from PDF documents by leveraging LangChain, OpenAI, and Cassandra.
 
+### Architecture
+- ![Sample Image](architecture.png)
+
 ### Notes
 - Make sure to replace placeholders for the tokens and IDs with actual values.
 - Adjust the dataset and model configurations as needed for your specific use case.
